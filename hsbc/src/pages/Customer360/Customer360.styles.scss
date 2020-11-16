@@ -1,0 +1,43 @@
+.container-fluid {
+  padding-top: 30px;
+}
+
+@media (min-width: 1200px) {
+  .custom_col_5 .col-lg-2 {
+    width: 20%;
+  }
+}
+
+.panel .panel-heading {
+  padding: 10px 15px;
+}
+
+.panel .panel-body {
+  padding: 15px;
+}
+
+.panel-body-row1 {
+  min-height: 275px;
+}
+
+.panel-body-row2 {
+  min-height: 400px;
+}
+
+.list-inline {
+  margin: 0;
+}
+
+.list-inline li h5 {
+  margin: 0;
+}
+
+.chart {
+  width: 60px;
+  height: 60px;
+  margin: 0;
+}
+
+.percent {
+  line-height: 60px;
+}

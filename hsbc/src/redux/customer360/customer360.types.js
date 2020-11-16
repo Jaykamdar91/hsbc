@@ -1,0 +1,2 @@
+export const SEARCH = "SEARCH";
+export const GET_COMPANY_PROFILE = "GET_COMPANY_PROFILE";
